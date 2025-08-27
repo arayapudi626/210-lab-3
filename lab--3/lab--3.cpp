@@ -2,10 +2,11 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello Lab 3!\n";
+    cout << "Hello Lab 3!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
